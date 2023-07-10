@@ -45,7 +45,7 @@
         "price": "R1 699,95"
     }],
 
-    "new-balance":[{
+    "new_balance":[{
          "id": 1,
         "brand":"New Balance",
         "title": "New Balance Men's 580 Grey Sneaker.",
